@@ -1,0 +1,61 @@
+# Session 8 Review
+
+## Student Information
+
+Name: Aditri Sadhu
+
+Repository: Session8
+
+GitHub Username: aditri-02
+
+## Overview
+
+This repository contains the work completed as part of Session 8. 
+It has been organized into separate sections for classwork and homework, making the submitted work easier to navigate, review, and evaluate.
+
+The repository demonstrates the practical application of concepts covered during the session and maintains
+a structured approach to storing and presenting the completed tasks.
+
+## Repository Structure
+
+The repository is organized into the following sections:
+
+### CW
+
+The CW folder contains the classwork completed during the session. This section represents the practical work carried out as part of the classroom activities and exercises.
+
+### HW
+
+The HW folder contains the assigned homework and related work completed as part of the session requirements.
+
+This separation keeps the academic work organized and makes it easier to identify classwork and homework independently.
+
+## Purpose of the Repository
+
+The primary purpose of this repository is to maintain a digital record of the work completed during Session 8. It provides a structured and accessible way to submit, review, and maintain academic work using GitHub.
+
+Using a repository also helps in developing familiarity with essential version control practices, including organizing files, maintaining revisions, and documenting completed work.
+
+## Work and Learning Outcomes
+
+Through the work included in this repository, the following skills are demonstrated:
+
+- Practical implementation of concepts covered during the session
+- Organized management of academic files and coursework
+- Familiarity with GitHub repositories and version control
+- Proper separation of classwork and homework
+- Maintaining a structured digital record of completed tasks
+- Developing consistency in documenting and submitting technical work
+
+## Repository Organization
+
+The repository follows a simple and clear structure so that the contents can be accessed efficiently.
+
+```text
+Session8
+|
+|-- CW
+|
+|-- HW
+|
+|-- REVIEW.md
